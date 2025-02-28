@@ -1,0 +1,23 @@
+R_DEF: Internal format may change without notice
+local
+color black
+color white
+drawable ic_launcher_background
+drawable ic_launcher_foreground
+drawable img
+id button
+id main
+id mybox
+id mybox2
+id mybutton
+layout activity_main
+mipmap ic_launcher
+mipmap ic_launcher_foreground
+mipmap ic_launcher_round
+mipmap img
+mipmap img_2
+string app_name
+style Base.Theme.Login
+style Theme.Login
+xml backup_rules
+xml data_extraction_rules

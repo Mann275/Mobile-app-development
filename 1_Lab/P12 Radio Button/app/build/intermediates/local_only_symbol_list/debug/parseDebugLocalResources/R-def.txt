@@ -1,0 +1,21 @@
+R_DEF: Internal format may change without notice
+local
+color black
+color white
+drawable ic_launcher_background
+drawable ic_launcher_foreground
+id radioCpp
+id radioGroup
+id radioJava
+id radioKotlin
+id radioPython
+id resultText
+id submitButton
+layout activity_main
+mipmap ic_launcher
+mipmap ic_launcher_round
+string app_name
+style Base.Theme.P12RadioButton
+style Theme.P12RadioButton
+xml backup_rules
+xml data_extraction_rules
