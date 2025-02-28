@@ -45,6 +45,7 @@
 
 
 🛠 IDE: Android Studio
+    https://developer.android.com/studio
 
 
 This repository showcases my Android development skills and serves as a portfolio of my coursework. 🚀
